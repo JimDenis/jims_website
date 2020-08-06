@@ -1,8 +1,8 @@
-# weather_forecast
+# jims_website
 
-![Alt text](https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png)
+![Alt text](screencapture-jims-skills.png)
 
-Just key in the city name & the weather for that day & that city will pop up. In the bottom in the blue area is the 5 day forecast for that city. Any city entered will also have a new button created. This screen will also "remember" what you put in for the next time you use the app.
+This is the start of my personal website
 
 ### Instrutions:
 
@@ -35,4 +35,4 @@ No automated testing
 
 -   **Jim Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
 
-This app can be found on https://jimdenis.github.io/weather_forecast/.
+This app can be found on https://jimdenis.github.io/jims_website/
