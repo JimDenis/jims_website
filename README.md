@@ -1,20 +1,38 @@
-# updated_profile
-My updated profile using Bootstrap 
+# weather_forecast
 
-Jim Denis --- Home Work 7 --- Date 02/25/20
+![Alt text](https://github.com/JimDenis/weather_forecast/blob/master/weather_forecaster.png)
 
-This is an add on to project 2: Responsiveness Portfolio.... 
-Which had the following: 
+Just key in the city name & the weather for that day & that city will pop up. In the bottom in the blue area is the 5 day forecast for that city. Any city entered will also have a new button created. This screen will also "remember" what you put in for the next time you use the app.
 
-Created three HTML's. One for that's about me, one that's got a my portfolio & another with a my contact numbers. 
-All of these screen SHOULD be responsive to any type of device.
-All of these web sites are connected thru a nav menu.
+### Instrutions:
 
-This update left the contact page alone. 
-Updated the About page with more updated information. 
-Updated the Portfolio page with 3 actual projects.
-Added a Card page with all of my contact info.   
+-   Just click on what you want to see
 
-You should be able to find the screens on... 
-https://jimdenis.github.io/updated_portfolio/.
+### Prerequisites
 
+None.
+
+### Installing
+
+Installed using GitHub with following commands:
+
+-   git clone (creates a dir for your github repo)
+-   git add -A
+-   git commit -m"comment goes here"
+-   git push
+
+## Running the tests
+
+No automated testing
+
+## Built With
+
+-   HTML
+-   CSS
+-   Bootstrap
+
+## Authors
+
+-   **Jim Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
+
+This app can be found on https://jimdenis.github.io/weather_forecast/.
